@@ -1,2 +1,2 @@
 # numeric_computing
-Repository for Numeric Computing at UFRN
+Repository containing the codes and laboratories of Numerical Computing at UFRN
